@@ -1,16 +1,18 @@
-## Hi there 👋
+**Hi, I'm Prudance Monare**
+Aspiring Data Analyst | Web Developer Intern
 
-<!--
-**26Prudence2023/26Prudence2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About Me**
+I am an IT graduate from Central University of Technology, currently working as a Web Developer Intern at Mangaung Metropolitan Municipality.
+I work with Power Pages and improve web solutions. I am passionate abut data and continuosly building projects to grow my skills in data ana=lysis.
 
-Here are some ideas to get you started:
+**Skills**
+Excel | SQL | Power BI | Power Pages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projects**
+Currently buidling my data analysis portfolio
+
+**Certifications**
+
+**Contact**
+www.linkedin.com/in/prudancemonare
+
